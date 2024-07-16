@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{r as n,o as t,c,a as r}from"./app-34010d88.js";const s={};function _(a,l){const e=n("web-show");return t(),c("div",null,[r(e)])}const i=o(s,[["render",_],["__file","index.html.vue"]]);export{i as default};

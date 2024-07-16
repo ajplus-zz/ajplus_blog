@@ -1,0 +1,1 @@
+import{_ as n}from"./plugin-vue_export-helper-c27b6911.js";import{r as o,o as t,c as r,a as c}from"./app-34010d88.js";const _={};function s(a,f){const e=o("front-index");return t(),r("div",null,[c(e)])}const m=n(_,[["render",s],["__file","index.html.vue"]]);export{m as default};
